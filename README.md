@@ -41,7 +41,14 @@ int main(void)
 }
 //...
 ```
-
+## Error codes
+- Error 1: invalid brightness value
+- Error 2: text message too long
+- Error 3: invalid led position
+- Error 4: invalid led command
+- Error 5: invalid digit position
+- Error 6: invalid digit command
+- Error 7: invalid character 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
